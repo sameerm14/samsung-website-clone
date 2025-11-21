@@ -165,7 +165,7 @@
 }
 
 /* Button */
-.hero-content button {
+.hero-content button{
   padding: 12px 28px;
   font-size: 16px;
   font-weight: 600;
@@ -175,7 +175,13 @@
   color: #000;
   cursor: pointer;
   transition: 0.3s ease;
+  text-decoration: none;
 }
+.hero-content button a{
+  text-decoration: none;
+  color: black;
+}
+
 
 /* Hover */
 .hero-content button:hover {
