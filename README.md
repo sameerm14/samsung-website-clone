@@ -62,4 +62,4 @@ All brand names, images, and links belong to **Samsung**.
 ## 👤 Author
 
 Sameer Nadaf  
-[LinkedIn]_(https://www.linkedin.com/in/sameer-nadaf-logged/)
+[LinkedIn](https://www.linkedin.com/in/sameer-nadaf-logged/)
